@@ -13,7 +13,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 from plyer import notification
 
-os.system(f'title Discord Token Brute force By Naoy ^| Version : 1.2')
+os.system(f'title Discord Token Brute Ghost ^| Version : 1.2')
 
 TOKEN = input(f"[>] Your token : ")
 os.system('cls')
